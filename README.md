@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **Sanjana**
+Submitted by: **Sanjana Aithal**
 
 Time spent: **2** hours spent in total
 
@@ -39,7 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/6KYyd6D.gif)
+
++<img src="https://github.com/skaithal/Light-and-Sound-Game/blob/15b4d7692404e802b414b660405e776d0bb7422e/ezgif-7-e55cd0fea929.gif?raw=true" width="1000px">
+
 
 
 ## Reflection Questions
@@ -68,7 +70,7 @@ A couple challenges I encountered in creating this submission are
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-In my process of creating the website, I wanted to learn more about how to frame the website so that it dynamically resizes to the shape of the screen + have the site elements occupy fixed spots on the website. In addition, the Javacript section's versatility and its dynamic nature was incredibly exciting to me; I would love to learn more about how recent forms of Javascript like React or Angular can be used to make the site more animated, aesthetic, and functional. Moreover, I would love to learn about UX design and the process that goes into creating a site with excellent UI; I have heard tools like Figma help web development teams plan their site out before development, I would love to learn how to effectively such tools as well!
+In my process of creating the website, I wanted to learn more about how to frame the website so that it dynamically resizes to the shape of the screen + have the site elements occupy fixed spots on the website. In addition, the Javacript section's versatility and its dynamic nature was incredibly exciting to me; I would love to learn more about how recent forms of Javascript like React or Angular can be used to make the site more animated, aesthetic, and functional. Moreover, I would love to learn about UX design and the process that goes into creating a site with excellent UI; I have heard tools like Figma help web development teams plan their site out before development, I would love to learn how to effectively use such tools as well!
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
