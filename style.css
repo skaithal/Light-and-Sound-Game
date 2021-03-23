@@ -1,0 +1,108 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: slategrey;
+  color: white;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+h1 {
+  font-style: italic;
+  color: white;
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 100px;
+}
+
+#extraChallenge {
+  font-style: italic;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: white;
+}
+
+#button2 {
+  background: white;
+}
+
+#button3 {
+  background: white;
+}
+
+#button4 {
+  background: white;
+}
+
+#button5 {
+  background: white;
+}
+
+#button6 {
+  background: white;
+}
+
+#button1:active,
+#button1.lit {
+  background: url("https://cdn.glitch.com/482d81aa-a15f-4ac4-af44-b78df6bbfc43%2Fqueen.jpeg?v=1616390165205");
+  background-position: 40%, 30%;
+}
+
+#button2:active,
+#button2.lit {
+  background: url("https://cdn.glitch.com/482d81aa-a15f-4ac4-af44-b78df6bbfc43%2Fqueen%202.jpeg?v=1616392142548");
+  background-position: 40%, 30%;
+}
+
+#button3:active,
+#button3.lit {
+  background: url("https://cdn.glitch.com/482d81aa-a15f-4ac4-af44-b78df6bbfc43%2Fqueen%203.jpeg?v=1616392625318");
+  background-position: 20%, 10%;
+}
+
+#button4:active,
+#button4.lit {
+  background: url("https://cdn.glitch.com/482d81aa-a15f-4ac4-af44-b78df6bbfc43%2Fqueen%204.jpeg?v=1616392855802");
+  background-position: 20%, 10%;
+}
+
+#button5:active,
+#button5.lit {
+  background: url("https://cdn.glitch.com/482d81aa-a15f-4ac4-af44-b78df6bbfc43%2Fqueen4.jpeg?v=1616393245195");
+}
+
+#button6:active,
+#button6.lit {
+  background: url("https://cdn.glitch.com/482d81aa-a15f-4ac4-af44-b78df6bbfc43%2Fqueen6.jpeg?v=1616394108350");
+  background-position: 30%, 10%;
+}
+
+/* Additional Modifications, link: https://codepen.io/P1N2O/pen/pyBNzX */
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
